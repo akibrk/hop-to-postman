@@ -1,0 +1,9 @@
+{
+  "name": "@akibrk/hops-to-postman",
+  "description": "Convert hoppscotch collection to postman collection",
+  "version": "0.1.0",
+  "devDependencies": {},
+  "author": {
+    "name": "Akib + Bing"
+  }
+}
